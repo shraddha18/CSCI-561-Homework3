@@ -10,7 +10,6 @@ import java.util.LinkedList;
 import java.util.Map;
 
 
- //KB values are getting changed which should not happen
 
 public class createKB {
 
