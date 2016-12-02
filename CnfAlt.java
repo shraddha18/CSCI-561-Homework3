@@ -1,17 +1,6 @@
 
-/* ----cnfAlt.java under HOMEWORK3 FOLDER, TAKEN FROM HW3SAMPLE ---*/
 
-//propogateNOT->moveInNot
-//parseDistribution -> distPar
-//distributeOR -> distOR
-//isDistributionCandidate -> checkIfDC
-//parseImplication -> parseImpl
-//eliminateImplication -> eliminateImpli
-//isImpl -> checkIfImpl
-//parseDuplicates -> modDuplicates
-//removeDuplicates -> eliDuplicate
-//isNPCandidate -> checkIfNPCand
-//parseNOT -> pNot
+
 
 import java.util.LinkedList;
 import java.util.ArrayList;
